@@ -61,6 +61,16 @@ footer p {
 
 /* página de login  */
 
+#section-login {
+    margin-top: 100px;
+}
 
+#section-login h1 {
+    text-align: center;
+}
+
+#section-login input {
+    width: 100%;
+}
 /* Formulário de cadastro*/
 
